@@ -1,7 +1,8 @@
-## Olá, jovens! 👋
+## Olá, pessoal! 👋
 
-- 🔭 Estou trabalhando com Java!
-- 🌱 Estudando Spring
+- Sou Carlos Silva, atualmente estou estudando diversas linguagens de programação!
+Tenho atualmente 18 anos, mas estudo programação desde dos 14 anos de idade.
+- 🎡 Estou estudando Spring.
 - 👯 ele/dele
 
   <div style="display: inline_block"><br>
