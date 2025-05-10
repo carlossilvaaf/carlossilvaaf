@@ -1,33 +1,19 @@
-## Olá, pessoal! 👋
-
-- Sou Carlos Silva, atualmente estou estudando diversas linguagens de programação!
-Tenho atualmente 18 anos, mas estudo programação desde dos 14 anos de idade.
-- 🎡 Estou estudando Spring.
-
-- Qualquer  contato via discord ou e-mail abaixo!
-- Discord : @trairemos
-- E-mail : contato.carlosdesenvolvedor@gmail.com
-
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+<h1 align="center">Hi there, Carlos Alberto 👋</h1>
+<div align="center">
+<p>Oi, meu nome é Carlos, sou um desenvolvedor backend apaixonado por criar aplicações escaláveis e robustas.
+<p>Quando não estou programando, gosto de experimentar novas ferramentas, contribuir para projetos open-source e compartilhar meu conhecimento com a comunidade de desenvolvedores. 🚀</p>
 </div>
-  
-  ##
-
-
-<div> 
-  <a href="https://www.youtube.com/channel/carlossilvaaaf" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/carlossilvaaaf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/carlossilvaaf" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/f7n8Ttg4FW" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contato.carlosdesenvolvedor@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carlossilvaaf" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-</div>
-
+<h2 align="center">🛠 Tech Stack</h2>
+<div align="center">
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff">&nbsp;
+<img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white">&nbsp;
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white">&nbsp;</div>
+<h2 align="center">🛠 My Stats</h2>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossilvaaf&layout=compact&theme=dark" alt="Top Languages Card"></div>
+<h2 align="center">📫 Connect with me</h2>
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/carlossilvaaf" target="_blank">CarlosSilva</a></p>
