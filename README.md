@@ -1,8 +1,18 @@
-<h1 align="center">Hi there, Carlos Alberto 👋</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=soft&height=10&color=&color=FF0000&descAlign=22&descAlignY=23&reversal=false"/>
+
 <div align="center">
-<p>Oi, meu nome é Carlos, sou um desenvolvedor backend apaixonado por criar aplicações escaláveis e robustas.
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&pause=1000&color=F70000&center=true&width=435&lines=Hi+there%2C+Carlos+Alberto+%F0%9F%91%8B;Developer+for+4+years." alt="Typing SVG" /></a><p>Oi, meu nome é Carlos, sou um desenvolvedor backend apaixonado por criar aplicações escaláveis e robustas.
 <p>Quando não estou programando, gosto de experimentar novas ferramentas, contribuir para projetos open-source e compartilhar meu conhecimento com a comunidade de desenvolvedores. 🚀</p>
 </div>
+
+<h3 align= 'center'>
+  Meu Perfil do Discord!
+</h3>
+
+<div align="center">  
+  <img src="https://api.victims.bio/discord/user/discord-arts/1298741162215215225/card" alt="discord" /> 
+</div>
+
 <h2 align="center">🛠 Tech Stack</h2>
 <div align="center">
 <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">&nbsp;
